@@ -28,7 +28,7 @@ shifted = my_list.move(2) # ['Hello', 5, 'World', 10]
  **Find the index of the biggest element**
 print(my_list.overbound())
 
-# 📁 Project Structure
+## 📁 Project Structure
 **custom_list.py**: The core logic of the CustomList class.
 
 **test_custom_list.py**: Unit tests ensuring code reliability.
